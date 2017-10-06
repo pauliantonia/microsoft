@@ -1,0 +1,38 @@
+/* alinear los elementos de la página: text-align,
+sirve para alinear tanto texto como imnágenes*/
+body{
+  text-align:center;
+  font-family: 'Fjalla One', sans-serif;
+}
+.cuadrado-color{
+  background-color: white
+} /*background-color: nombrandolo en ignles, codigo rbg o codigo html()#E2A9F3)*/
+h1{
+  color: #6A0888
+}
+h2{
+  color: #6A0888
+}
+h3{
+  color: #9A2EFE
+}
+p{
+  color: #CC2EFA
+}
+h4{
+  color: gray
+}
+h5{
+  color:#CC2EFA
+}
+.paramore{
+  width: 1250px;
+  height: 800px;
+}
+
+/*para agregar una linea separadora:
+.enlaces{   (llama al div donde tu quieres poner la linea)
+  border-top: 1px(tamaño y/o grosor de la lines) solid (tipo de grosor por ejemplo dotted) black (color de la linea);
+  padding-bottom: 20px (da espacios)
+}
+*/
